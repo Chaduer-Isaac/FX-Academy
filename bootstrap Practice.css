@@ -1,0 +1,9 @@
+section {
+  scroll-margin-top: 60px; /* Match your fixed navbar height */
+}
+
+@media(min-width:768px){
+  news-input{
+    width: 50%;
+  }
+}
